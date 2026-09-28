@@ -108,7 +108,7 @@ bias-variance-tradeoff/
 │   └── 04-bias-variance_tradeoff_energy_returns.ipynb
 │
 ├── reports/
-│   └── bias-variance-tradeoff-report.pdf
+│   └── bias_variance-tradeoff-report.pdf
 │
 └── handwritten-notes/
     └── bias-variance-tradeoff-handwritten-notes.pdf
