@@ -148,15 +148,15 @@ linear-regression/
 ├── README.md
 │
 ├── notebooks/
-│   ├── problem-01-capm-beta-estimation.ipynb
-│   ├── problem-02-capm-vs-fama-french.ipynb
-│   └── problem-03-temperature-shocks-growth.ipynb
+│   ├── 01_linear_regression_easy.ipynb
+│   ├── 02_linear_regression_ff3_energy.ipynb
+│   └── 03_linear_regression_temperature_growth.ipynb
 │
 ├── reports/
-│   └── linear-regression-report.pdf
+│   └── LinReg_Report.pdf
 │
 └── handwritten-notes/
-    └── linear-regression-notes.pdf
+    └── Linear Regression_Theory.pdf
 ```
 
 The **notebooks** contain the empirical implementations, the **report** contains the detailed results and interpretations, and the **handwritten notes** document the theoretical and mathematical learning underlying the exercises.
