@@ -105,7 +105,7 @@ bias-variance-tradeoff/
 ├── README.md
 │
 ├── notebooks/
-│   └── problem-04-bias-variance-tradeoff.ipynb
+│   └── 04-bias-variance_tradeoff_energy_returns.ipynb
 │
 ├── reports/
 │   └── bias-variance-tradeoff-report.pdf
